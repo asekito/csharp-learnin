@@ -10,3 +10,15 @@
 /Users/andrea/Desktop/personal projects/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.dll
 /Users/andrea/Desktop/personal projects/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.pdb
 /Users/andrea/Desktop/personal projects/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.genruntimeconfig.cache
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.csprojAssemblyReference.cache
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.AssemblyInfo.cs
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.dll
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.pdb
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/bin/Debug/netcoreapp3.1/csharp-learnin.deps.json
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/bin/Debug/netcoreapp3.1/csharp-learnin.runtimeconfig.json
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/bin/Debug/netcoreapp3.1/csharp-learnin.runtimeconfig.dev.json
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/bin/Debug/netcoreapp3.1/csharp-learnin.dll
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/bin/Debug/netcoreapp3.1/csharp-learnin.pdb
+/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/Debug/netcoreapp3.1/csharp-learnin.genruntimeconfig.cache

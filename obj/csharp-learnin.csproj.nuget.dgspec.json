@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrea/Desktop/personal projects/csharp-learnin/csharp-learnin.csproj": {}
+    "/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/csharp-learnin.csproj": {}
   },
   "projects": {
-    "/Users/andrea/Desktop/personal projects/csharp-learnin/csharp-learnin.csproj": {
+    "/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/csharp-learnin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrea/Desktop/personal projects/csharp-learnin/csharp-learnin.csproj",
+        "projectUniqueName": "/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/csharp-learnin.csproj",
         "projectName": "csharp-learnin",
-        "projectPath": "/Users/andrea/Desktop/personal projects/csharp-learnin/csharp-learnin.csproj",
+        "projectPath": "/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/csharp-learnin.csproj",
         "packagesPath": "/Users/andrea/.nuget/packages/",
-        "outputPath": "/Users/andrea/Desktop/personal projects/csharp-learnin/obj/",
+        "outputPath": "/Users/andrea/Desktop/study-programming/csharp/csharp-learnin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrea/.nuget/NuGet/NuGet.Config"
